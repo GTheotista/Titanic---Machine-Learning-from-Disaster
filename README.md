@@ -49,20 +49,6 @@ The accuracy scores of each model are as follows:
 - Gradient Boosting achieved the highest accuracy at **79.82%**, making it the best-performing model.
 - Feature importance analysis could be conducted to further understand which features have the most impact on survival.
 - Future improvements could include hyperparameter tuning, feature engineering, and handling class imbalance.
-
-## **How to Use**
-1. Install required dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn lightgbm matplotlib seaborn
-   ```
-2. Run the Python script to preprocess data, train models, and evaluate performance.
-
-## **Future Work**
-- Implement hyperparameter tuning to improve model performance.
-- Experiment with ensemble models to enhance accuracy.
-- Explore deep learning approaches for better predictions.
-
 ---
-**Author:** [Your Name]  
-**Project Repository:** [GitHub Link (if available)]
+**Author:** [Giovanny Theotista]  
 
